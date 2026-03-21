@@ -14,7 +14,7 @@
 
 I am a Software Development student at FATEC, passionate about technology, problem-solving, and building practical solutions. I have experience with programming, web development, and basic DevOps tools.
 
-Currently focused on improving my skills in backend development (Python) and full-stack applications, aiming to start my career as a developer.
+Currently focused on improving my skills in backend development (C; Java; Python) and full-stack applications, aiming to start my career as a developer.
 
 🛠️ Skills
 💻 Programming
