@@ -14,7 +14,7 @@
 
 I am a Software Development student at FATEC, passionate about technology, problem-solving, and building practical solutions. I have experience with programming, web development, and basic DevOps tools.
 
-Currently focused on improving my skills in backend development (C; Java; Python) and full-stack applications, aiming to start my career as a developer.
+Currently focused on improving my skills in backend development (C, Java, Python) and full-stack applications, aiming to start my career as a developer.
 
 🛠️ Skills
 💻 Programming
@@ -41,29 +41,6 @@ FATEC Prof. Jessen Vidal
 Degree: Systems Analysis and Development
 Focus: Full-stack API development, Python backend, UI modeling with HTML/CSS
 
-E.E. Cel. Eduardo José de Camargo
-📍 Paraibuna, SP
-📅 Completed: 2013
-
-High School Diploma
-💼 Professional Experience
-🏥 Clinical Analysis Laboratory São Camilo
-
-Receptionist
-📅 2018 – 2024 | Paraibuna, SP
-
-Customer service and support
-Patient registration and exam delivery
-Data processing and organization
-🛒 Paraibuna Importados
-
-Online Sales
-📅 2022 – 2026
-
-Sales through Instagram and Enjoei
-Inventory management
-Order and financial control
-Creation of digital ads
 📚 Certifications & Courses
 CS50 – Introduction to Programming (Scratch)
 CS50 – Introduction to Computer Science
