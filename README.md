@@ -20,14 +20,19 @@ Currently focused on improving my skills in backend development (C, Java, Python
 🛠️ Skills
 
 💻 Programming
+
 Python
 Java
 C
+
 🌐 Web Development
+
 HTML
 CSS
 JavaScript
+
 ⚙️ DevOps / Tools
+
 Linux
 Git & GitHub
 CI/CD (basic knowledge)
