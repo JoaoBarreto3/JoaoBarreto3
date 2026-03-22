@@ -15,14 +15,16 @@ Paraibuna, São Paulo, Brazil
 
 ## 🛠️ Skills
 
-### Programming
+### 💻 Programming
 Python | Java | C
 
-### Web Development
+### 🌐 Web Development
 HTML | CSS | JavaScript
 
-### DevOps / Tools
+### ⚙️ DevOps / Tools
 Linux | Git & GitHub | CI/CD (basic knowledge)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobarreto3/)
+
+
