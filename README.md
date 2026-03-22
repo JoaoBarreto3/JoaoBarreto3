@@ -7,8 +7,9 @@
 
 📱 +55 (12) 99764-5002
 
-🔗 GitHub
- | LinkedIn
+🔗 Linkedin:  
+
+[LinkedIn](https://www.linkedin.com/in/joaobarreto3/)
 
 🧠 About Me
 
@@ -32,6 +33,7 @@ CI/CD (basic knowledge)
 🌎 Languages
 English (Advanced)
 Portuguese (Native)
+
 🎓 Education
 
 FATEC Prof. Jessen Vidal
@@ -39,7 +41,7 @@ FATEC Prof. Jessen Vidal
 📅 Expected Graduation: 1st Semester of 2028
 
 Degree: Systems Analysis and Development
-Focus: Full-stack API development, Python backend, UI modeling with HTML/CSS
+Projects: Full-stack API development, Python backend, UI modeling with HTML/CSS
 
 📚 Certifications & Courses
 CS50 – Introduction to Programming (Scratch)
