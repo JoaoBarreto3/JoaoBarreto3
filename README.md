@@ -18,6 +18,7 @@ I am a Software Development student at FATEC, passionate about technology, probl
 Currently focused on improving my skills in backend development (C, Java, Python) and full-stack applications, aiming to start my career as a developer.
 
 🛠️ Skills
+
 💻 Programming
 Python
 Java
@@ -44,6 +45,7 @@ Degree: Systems Analysis and Development
 Projects: Full-stack API development, Python backend, UI modeling with HTML/CSS
 
 📚 Certifications & Courses
+
 CS50 – Introduction to Programming (Scratch)
 CS50 – Introduction to Computer Science
 Java Programming I – University of Helsinki (MOOC)
