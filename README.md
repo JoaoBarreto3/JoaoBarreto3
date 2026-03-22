@@ -31,38 +31,3 @@ JavaScript
 Linux
 Git & GitHub
 CI/CD (basic knowledge)
-🌎 Languages
-English (Advanced)
-Portuguese (Native)
-
-🎓 Education
-
-FATEC Prof. Jessen Vidal
-📍 São José dos Campos, SP
-📅 Expected Graduation: 1st Semester of 2028
-
-Degree: Systems Analysis and Development
-Projects: Full-stack API development, Python backend, UI modeling with HTML/CSS
-
-📚 Certifications & Courses
-
-CS50 – Introduction to Programming (Scratch)
-CS50 – Introduction to Computer Science
-Java Programming I – University of Helsinki (MOOC)
-Git – Basic Level
-Linux Unhatched – Cisco
-IT Essentials – Cisco NetAcad
-Microsoft Office 2016 (Word, Excel, PowerPoint, Outlook)
-Office 365 (Teams, OneDrive, SharePoint)
-🚀 Goals
-Become a Junior Developer
-Build real-world projects and a strong portfolio
-Improve knowledge in backend, APIs, and system design
-Gain professional experience in the tech industry
-📌 Currently Learning
-Backend development with Python
-APIs and databases
-Software engineering best practices
-🤝 Let's Connect!
-
-I'm always open to learning, collaboration, and new opportunities. Feel free to reach out!
