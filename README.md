@@ -10,7 +10,6 @@ Paraibuna, São Paulo, Brazil
 
 ## 📫 Contact
 - Email: jv.barreto80@gmail.com  
-- Phone: +55 (12) 99764-5002  
 - LinkedIn: [João Victor Barreto](https://www.linkedin.com/in/joaobarreto3/)
 
 ## 🛠️ Skills
