@@ -5,7 +5,7 @@
 
 ```
 > Construindo projetos reais enquanto aprendo.
-> Aberto a freelas e oportunidades.
+> Aberto a oportunidades de estágio, freelances e colaborações.
 ```
 
 ---
@@ -20,6 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frontend**
