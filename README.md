@@ -1,29 +1,66 @@
-# 👋 Hi, I'm João Victor Barreto Capelo
+<h1 align="center">João Barreto</h1>
+<h3 align="center">Dev & Estudante • Brasil 🇧🇷</h3>
 
-## 💻 About Me
-I am a Software Development student at **FATEC Prof. Jessen Vidal**, passionate about technology, problem-solving, and building practical solutions.  
-I have experience with programming, web development, and basic DevOps tools.  
-Currently focused on **backend development (C, Java, Python)** and full-stack applications, aiming to start my career as a developer.
+<br/>
 
-## 📍 Location
-Paraibuna, São Paulo, Brazil
+```
+> Construindo projetos reais enquanto aprendo.
+> Aberto a freelas e oportunidades.
+```
 
-## 📫 Contact
-- Email: jv.barreto80@gmail.com  
-- LinkedIn: [João Victor Barreto](https://www.linkedin.com/in/joaobarreto3/)
+---
 
-## 🛠️ Skills
+### 🛠 Tech Stack
 
-### 💻 Programming
-Python | Java | C
+**Mobile**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-### 🌐 Web Development
-HTML | CSS | JavaScript
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### ⚙️ DevOps / Tools
-Linux | Git & GitHub | CI/CD (basic knowledge)
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaobarreto3/)
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
+---
 
+### 📂 Projetos em destaque
+
+| Projeto | Descrição | Tech |
+|---|---|---|
+| [🦇 bat-man](https://github.com/JoaoBarreto3/batman-todolist) | App Android de tarefas com estética de terminal | Java · Android |
+| [📅 AgendaPro](https://github.com/JoaoBarreto3/agendapro) | Sistema web de agendamento para pequenos negócios | Python · Flask · SQLite |
+
+> *Mais projetos chegando em breve...*
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaobarreto3)
+
+---
+
+<details>
+<summary>🇺🇸 English version</summary>
+
+<br/>
+
+**João Barreto** — Dev & student from Brazil.
+
+Building real projects while learning. Open to freelance work and opportunities.
+
+**Stack:** Java · Android · Python · Flask · MySQL · HTML · CSS · JavaScript · Git
+
+Feel free to reach out on LinkedIn!
+
+</details>
